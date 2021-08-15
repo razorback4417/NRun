@@ -1,0 +1,15 @@
+ {
+   "expo": {
+    "name": "NRun",
+    "icon": "./assets/NRUN.png",
+    "version": "1.0.1",
+    "ios": {
+      "bundleIdentifier": "com.theoluu.nrun",
+      "buildNumber": "1.0.1"
+    },
+    "android": {
+      "package": "com.theoluu.nrun",
+      "versionCode": 1
+    }
+   }
+ }
