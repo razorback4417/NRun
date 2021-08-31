@@ -7,7 +7,7 @@ export default function BackApp() {
   return (
     <View style={styles.container}>
       <Text style={styles.time}>N R U N</Text>
-      <Text style={styles.paragraph}>Putting you data put to use.</Text>
+      <Text style={styles.paragraph}>Putting your data to use.</Text>
     </View>
   );
 }
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     padding: 24,
     paddingTop: 100,
-    marginBottom: 150,
+    marginBottom: 20,
   },
   paragraph: {
     alignItems: 'center',
