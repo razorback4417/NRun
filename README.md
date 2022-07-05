@@ -1,6 +1,6 @@
 # React Native App with Strava
 
-This paper will cover the steps I went through to develop a React Native App that integrates with the Strava API.
+This readme will cover the steps I went through to develop a React Native App that integrates with the Strava API.
 
 # Creating your Strava Application
 
