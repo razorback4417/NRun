@@ -6,5 +6,7 @@ Using an algorithm developed with John Monz, AP Statistics teacher at Weston Hig
 
 The app has a social aspect to share and comment on predictions.
 
+**See the master branch for main code.**
+
 Snack - https://github.com/expo/snack/ </br>
 Strava - https://developers.strava.com/
